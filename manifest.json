@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§bCustom Totem§r\n§7Brevised By §6Chanhne\n§7Tik Tok §cChanhne_mc",
+        "name": "§l§bCustom Totem | v1.0.0 ",
+        "uuid": "0a01b099-632f-4136-919a-043d5575cfc8",
+        "min_engine_version": [1, 16, 0],
+        "version": [1, 0, 0]
+    },
+    "modules": [{
+        "description": "vui lòng chọn các tùy chọn cho skin totem \n§frevised By §6Chanhne",
+        "type": "resources",
+        "uuid": "65d603af-a775-43de-9b1d-4f9a075dab9b",
+        "version": [1, 0, 0]
+        }],
+    "min_engine_version": [1, 16, 0],
+    "settings": [
+        {
+            "type": "label",
+            "text": "§etiktok §aChanhne_mc"
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "skin_small",
+            "name": "§6Mẫu skin nhỏ",
+            "memory_tier": 1 
+        },
+        {
+            "folder_name": "skin_big",
+            "name": "§6Mẫu skin lớn",
+            "memory_tier": 2
+        },
+        {
+            "folder_name": "skin_animation",
+            "name": "§6Mẫu skin animation",
+            "memory_tier": 3
+        }
+    ]
+}
