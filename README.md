@@ -3,10 +3,6 @@
 ## Giới thiệu
 Chào mừng bạn đến với **CUSTOM TOTEM ADDON**, một addon dành cho Minecraft cho phép bạn thay đổi skin của totem. Addon này được phát triển bởi **Chanhne** với ba tính năng chính:
 
-1. **Skin Nhỏ**: Sử dụng mẫu skin nhỏ cho totem của bạn.
-2. **Skin Lớn**: Sử dụng mẫu skin lớn để tạo điểm nhấn cho totem.
-3. **Skin Animation**: Mẫu skin động mang lại trải nghiệm thú vị hơn.
-
 ## Tính Năng
 - **Skin Nhỏ**: Mẫu skin nhỏ gọn, dễ thương.
 - **Skin Lớn**: Mẫu skin lớn với chi tiết rõ nét.
