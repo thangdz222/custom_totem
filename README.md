@@ -15,10 +15,10 @@ Chào mừng bạn đến với **CUSTOM TOTEM ADDON**, một addon dành cho Mi
    - Thêm skin của bạn vào đây và đổi tên tệp thành `chanhne.png`.
 
 2. **Thay đổi ảnh của totem**:
-   - Đi tới thư mục `/textures/`.
+   - Đi tới thư mục `/textures/items`.
    - Thêm ảnh của bạn vào đây và đổi tên tệp thành `totem.png`.
 
-## Liên Kết
+## TIK TOK
 Để theo dõi tôi và các nội dung thú vị khác, hãy ghé thăm trang TikTok của tôi tại: [Chanhne](https://www.tiktok.com/@chanhne_mc)
 
 ## Cách Cài Đặt
